@@ -2,7 +2,7 @@
 
 I'm an 21 year old developer.
 
-🔭 Current
+## 🔭 Current
 
 I'm currently studying at the University of Utah.
 
