@@ -9,6 +9,7 @@ I'm currently studying at Florida International University.
 ## ⚡️ Experience
 
 RND4IMPACT INC - Software Developer
+
 University of Utah - IT Front Desk Supervisor
 
 ## 📫 Contact
